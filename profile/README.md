@@ -22,6 +22,20 @@
       </p>
       </a>
     </td>
+    <!-- SMGoro -->
+    <td align="center">
+      <a href="https://github.com/SMGoro"
+        ><img
+          src="https://avatars.githubusercontent.com/u/72185434?v=4"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>SMGoro</b></sub></a
+      ><br />
+      <p>
+        Owner<br />
+      </p>
+      </a>
+    </td>
     <!-- DongShao -->
     <td align="center">
       <a href="https://github.com/DongShaoNB"
