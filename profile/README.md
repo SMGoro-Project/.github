@@ -29,7 +29,7 @@
           src="https://avatars.githubusercontent.com/u/72185434?v=4"
           width="100px;"
           alt=""
-        /><br /><sub><b>SMGoro</b></sub></a
+        /><br /><sub><b>夏五郎</b></sub></a
       ><br />
       <p>
         Owner<br />
