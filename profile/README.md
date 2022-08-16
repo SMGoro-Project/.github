@@ -8,20 +8,6 @@
 
 <table>
   <tr>
-    <!-- zimzaza4 -->
-    <td align="center">
-      <a href="https://github.com/zimzaza4"
-        ><img
-          src="https://avatars.githubusercontent.com/u/53421735?v=4"
-          width="100px;"
-          alt=""
-        /><br /><sub><b>zimzaza4</b></sub></a
-      ><br />
-      <p>
-        Owner<br />
-      </p>
-      </a>
-    </td>
     <!-- SMGoro -->
     <td align="center">
       <a href="https://github.com/SMGoro"
@@ -30,6 +16,20 @@
           width="100px;"
           alt=""
         /><br /><sub><b>夏五郎</b></sub></a
+      ><br />
+      <p>
+        Owner<br />
+      </p>
+      </a>
+    </td>
+    <!-- zimzaza4 -->
+    <td align="center">
+      <a href="https://github.com/zimzaza4"
+        ><img
+          src="https://avatars.githubusercontent.com/u/53421735?v=4"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>zimzaza4</b></sub></a
       ><br />
       <p>
         Owner<br />
