@@ -78,6 +78,20 @@
       </p>
       </a>
     </td>
+    <!-- Daza -->
+    <td align="center">
+      <a href="https://github.com/DazaSeal"
+        ><img
+          src="https://avatars.githubusercontent.com/u/94872614?v=4"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>Daza</b></sub></a
+      ><br />
+      <p>
+        Member<br />
+      </p>
+      </a>
+    </td>
   </tr>
 </table>
 
