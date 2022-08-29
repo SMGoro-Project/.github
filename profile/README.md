@@ -1,8 +1,14 @@
 <h1 align="center" style="margin-top: 0px;">
-  SMGoro-Project
+  SMGoro Project
 </h1>
 
-## ❤️‍🔥 成员
+<h4 align="center">
+  Hello 👋, welcome to SMGoro Project, every project here contains the passion of developers ☺
+</h4>
+
+<br>
+
+## ❤️‍ Members / 成员
 
 <br>
 
@@ -18,7 +24,7 @@
         /><br /><sub><b>夏五郎</b></sub></a
       ><br />
       <p>
-        Owner<br />
+        Owner of IMC.RE<br />
       </p>
       </a>
     </td>
@@ -32,7 +38,7 @@
         /><br /><sub><b>zimzaza4</b></sub></a
       ><br />
       <p>
-        Owner<br />
+        Admin of IMC.RE<br />
       </p>
       </a>
     </td>
@@ -95,7 +101,7 @@
   </tr>
 </table>
 
-## 📦 开源项目
+## 📦 Public Projects / 开源项目
 
 <br>
 
